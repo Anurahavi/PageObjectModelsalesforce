@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18638" started-at="2020-06-07T05:15:18Z" finished-at="2020-06-07T05:15:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18638" started-at="2020-06-07T05:15:18Z" finished-at="2020-06-07T05:15:36Z">
+      <class name="com.seleniumSalesforce.SDFCLogin">
+        <test-method status="PASS" signature="intialize()[pri:0, instance:com.seleniumSalesforce.SDFCLogin@292b08d6]" name="intialize" is-config="true" duration-ms="3852" started-at="2020-06-06T22:15:18Z" finished-at="2020-06-06T22:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method status="PASS" signature="rememberUsername()[pri:0, instance:com.seleniumSalesforce.SDFCLogin@292b08d6]" name="rememberUsername" duration-ms="10601" started-at="2020-06-06T22:15:22Z" finished-at="2020-06-06T22:15:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rememberUsername -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.seleniumSalesforce.SDFCLogin@292b08d6]" name="teardown" is-config="true" duration-ms="4173" started-at="2020-06-06T22:15:32Z" finished-at="2020-06-06T22:15:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.seleniumSalesforce.SDFCLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

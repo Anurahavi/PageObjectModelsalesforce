@@ -1,0 +1,7 @@
+pageobjects\HomePage.class
+pageobjects\MySettingsPage.class
+pageobjects\forgotPasswordPage.class
+resources\base.class
+pageobjects\LoginPage.class
+pageobjects\AccountsPage.class
+pageobjects\ProfilePage.class
